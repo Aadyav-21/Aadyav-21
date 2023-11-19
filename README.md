@@ -1,5 +1,9 @@
-### Hi there 👋
-
+### Hi there 👋 I am Aadya , a MERN stack developer
+-🔭 I’m currently working on **full stack web development** and **DSA**.
+- 🌱 I’m currently learning **Python** and **Java**.
+- 📫 How to reach me:[aadyavibhuti30@gmail.com]()
+- ⚡also loves skecthing and painting.
+- 💬 Ask me about -MERN , DSA, Python.
 <!--
 **Aadyav-21/Aadyav-21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
