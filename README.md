@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **web development,DSA**
 
-- 🌱 I’m currently learning **Python and Java**
+- 🌱 I’m currently learning **AI and ML**
 
 - 💬 Ask me about **MERN,Python,DSA**
 
